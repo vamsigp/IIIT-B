@@ -1,0 +1,689 @@
+,primary_sector,variable
+8,adventure travel,Automotive & Sports
+14,aerospace,Automotive & Sports
+45,auto,Automotive & Sports
+46,automated kiosk,Automotive & Sports
+47,automotive,Automotive & Sports
+57,bicycles,Automotive & Sports
+69,boating industry,Automotive & Sports
+87,cad,Automotive & Sports
+93,cars,Automotive & Sports
+188,design,Automotive & Sports
+189,designers,Automotive & Sports
+213,drones,Automotive & Sports
+226,electric vehicles,Automotive & Sports
+292,fuels,Automotive & Sports
+331,heavy industry,Automotive & Sports
+364,industrial automation,Automotive & Sports
+409,limousines,Automotive & Sports
+602,soccer,Automotive & Sports
+626,sporting goods,Automotive & Sports
+627,sports,Automotive & Sports
+652,transportation,Automotive & Sports
+657,unmanned air systems,Automotive & Sports
+688,nan,Blanks
+1392,air pollution control,Cleantech / Semiconductors
+1409,aquaculture,Cleantech / Semiconductors
+1437,bio-pharm,Cleantech / Semiconductors
+1438,biofuels,Cleantech / Semiconductors
+1439,bioinformatics,Cleantech / Semiconductors
+1440,biomass power generation,Cleantech / Semiconductors
+1441,biometrics,Cleantech / Semiconductors
+1442,biotechnology,Cleantech / Semiconductors
+1443,bitcoin,Cleantech / Semiconductors
+1466,carbon,Cleantech / Semiconductors
+1477,chemicals,Cleantech / Semiconductors
+1482,clean energy,Cleantech / Semiconductors
+1483,clean technology,Cleantech / Semiconductors
+1484,clean technology it,Cleantech / Semiconductors
+1501,commercial solar,Cleantech / Semiconductors
+1502,commodities,Cleantech / Semiconductors
+1509,concentrated solar power,Cleantech / Semiconductors
+1581,disruptive models,Cleantech / Semiconductors
+1593,early-stage technology,Cleantech / Semiconductors
+1613,energy,Cleantech / Semiconductors
+1614,energy efficiency,Cleantech / Semiconductors
+1615,energy it,Cleantech / Semiconductors
+1616,energy management,Cleantech / Semiconductors
+1617,energy storage,Cleantech / Semiconductors
+1630,environmental innovation,Cleantech / Semiconductors
+1643,fertility,Cleantech / Semiconductors
+1667,fuel cells,Cleantech / Semiconductors
+1669,funeral industry,Cleantech / Semiconductors
+1677,gas,Cleantech / Semiconductors
+1691,green,Cleantech / Semiconductors
+1692,green consumer goods,Cleantech / Semiconductors
+1712,home & garden,Cleantech / Semiconductors
+1713,home automation,Cleantech / Semiconductors
+1714,home decor,Cleantech / Semiconductors
+1784,lighting,Cleantech / Semiconductors
+1808,material science,Cleantech / Semiconductors
+1809,mechanical solutions,Cleantech / Semiconductors
+1820,minerals,Cleantech / Semiconductors
+1821,mining technologies,Cleantech / Semiconductors
+1847,nanotechnology,Cleantech / Semiconductors
+1848,natural language processing,Cleantech / Semiconductors
+1849,natural resources,Cleantech / Semiconductors
+1938,recycling,Cleantech / Semiconductors
+1940,renewable energies,Cleantech / Semiconductors
+1941,renewable tech,Cleantech / Semiconductors
+1959,semiconductor manufacturing equipment,Cleantech / Semiconductors
+1960,semiconductors,Cleantech / Semiconductors
+1997,solar,Cleantech / Semiconductors
+1998,space travel,Cleantech / Semiconductors
+2048,waste management,Cleantech / Semiconductors
+2050,water,Cleantech / Semiconductors
+2051,water purification,Cleantech / Semiconductors
+2052,wearables,Cleantech / Semiconductors
+2100,art,Entertainment
+2102,artists globally,Entertainment
+2106,audio,Entertainment
+2107,audiobooks,Entertainment
+2136,brewing,Entertainment
+2149,business travelers,Entertainment
+2158,casual games,Entertainment
+2159,celebrity,Entertainment
+2180,coffee,Entertainment
+2187,comics,Entertainment
+2198,concerts,Entertainment
+2199,console gaming,Entertainment
+2210,content,Entertainment
+2211,content creators,Entertainment
+2212,content delivery,Entertainment
+2213,content discovery,Entertainment
+2214,content syndication,Entertainment
+2215,contests,Entertainment
+2224,craft beer,Entertainment
+2225,creative,Entertainment
+2226,creative industries,Entertainment
+2260,digital entertainment,Entertainment
+2261,digital media,Entertainment
+2262,digital rights management,Entertainment
+2263,digital signage,Entertainment
+2278,e-books,Entertainment
+2282,ebooks,Entertainment
+2287,educational games,Entertainment
+2288,edutainment,Entertainment
+2315,entertainment,Entertainment
+2316,entertainment industry,Entertainment
+2320,event management,Entertainment
+2321,events,Entertainment
+2327,fantasy sports,Entertainment
+2330,fashion,Entertainment
+2334,film,Entertainment
+2335,film distribution,Entertainment
+2336,film production,Entertainment
+2353,freetoplay gaming,Entertainment
+2360,gambling,Entertainment
+2361,game,Entertainment
+2362,game mechanics,Entertainment
+2363,games,Entertainment
+2364,gamification,Entertainment
+2409,hotels,Entertainment
+2420,in-flight entertainment,Entertainment
+2423,independent music labels,Entertainment
+2440,interface design,Entertainment
+2441,interior design,Entertainment
+2454,jewelry,Entertainment
+2466,leisure,Entertainment
+2469,lifestyle,Entertainment
+2470,lifestyle businesses,Entertainment
+2471,lifestyle products,Entertainment
+2498,media,Entertainment
+2516,mobile games,Entertainment
+2524,mobile video,Entertainment
+2529,music,Entertainment
+2530,music education,Entertainment
+2531,music services,Entertainment
+2532,music venues,Entertainment
+2533,musical instruments,Entertainment
+2534,musicians,Entertainment
+2555,online gaming,Entertainment
+2562,online video advertising,Entertainment
+2586,photo editing,Entertainment
+2587,photo sharing,Entertainment
+2588,photography,Entertainment
+2632,resorts,Entertainment
+2633,restaurants,Entertainment
+2636,reviews and recommendations,Entertainment
+2659,shoes,Entertainment
+2660,shopping,Entertainment
+2706,television,Entertainment
+2708,theatre,Entertainment
+2710,ticketing,Entertainment
+2711,tourism,Entertainment
+2717,travel,Entertainment
+2718,travel & tourism,Entertainment
+2729,video,Entertainment
+2730,video conferencing,Entertainment
+2731,video games,Entertainment
+2732,video on demand,Entertainment
+2733,video streaming,Entertainment
+2734,virtual workforces,Entertainment
+2735,voip,Entertainment
+2746,weddings,Entertainment
+2748,wine and spirits,Entertainment
+2749,wireless,Entertainment
+2757,active lifestyle,Health
+2772,alternative medicine,Health
+2777,animal feed,Health
+2791,assisitive technology,Health
+2792,assisted living,Health
+2802,babies,Health
+2803,baby accessories,Health
+2804,baby boomers,Health
+2805,baby safety,Health
+2808,beauty,Health
+2841,cannabis,Health
+2854,child care,Health
+2861,clinical trials,Health
+2904,cooking,Health
+2907,corporate wellness,Health
+2908,cosmetic surgery,Health
+2909,cosmetics,Health
+2939,dental,Health
+2945,diabetes,Health
+2946,diagnostics,Health
+2947,dietary supplements,Health
+2961,doctors,Health
+2977,elder care,Health
+2980,electronic health records,Health
+3010,exercise,Health
+3011,eyewear,Health
+3030,fitness,Health
+3056,genetic testing,Health
+3076,health and insurance,Health
+3077,health and wellness,Health
+3078,health care,Health
+3079,health care information technology,Health
+3080,health diagnostics,Health
+3081,health services industry,Health
+3082,healthcare services,Health
+3096,hospitals,Health
+3112,independent pharmacies,Health
+3149,lasers,Health
+3187,medical,Health
+3188,medical devices,Health
+3189,medical professionals,Health
+3191,mens specific,Health
+3193,mhealth,Health
+3205,mobile health,Health
+3229,neuroscience,Health
+3236,nutrition,Health
+3255,organic,Health
+3256,organic food,Health
+3257,outdoors,Health
+3269,personal health,Health
+3272,pets,Health
+3273,pharmaceuticals,Health
+3278,physicians,Health
+3304,public safety,Health
+3305,public transportation,Health
+3337,senior citizens,Health
+3338,senior health,Health
+3344,sextech,Health
+3375,specialty chemicals,Health
+3376,specialty foods,Health
+3377,speech recognition,Health
+3397,therapeutics,Health
+3416,veterinary,Health
+3441,3d,Manufacturing
+3442,3d printing,Manufacturing
+3443,3d technology,Manufacturing
+3447,advanced materials,Manufacturing
+3455,agriculture,Manufacturing
+3474,architecture,Manufacturing
+3495,batteries,Manufacturing
+3518,building products,Manufacturing
+3544,civil engineers,Manufacturing
+3567,communications hardware,Manufacturing
+3568,communications infrastructure,Manufacturing
+3571,computer vision,Manufacturing
+3572,computers,Manufacturing
+3576,construction,Manufacturing
+3579,consumer electronics,Manufacturing
+3580,consumer goods,Manufacturing
+3624,defense,Manufacturing
+3644,displays,Manufacturing
+3651,dod/military,Manufacturing
+3667,electrical distribution,Manufacturing
+3669,electronics,Manufacturing
+3673,embedded hardware and software,Manufacturing
+3704,farmers market,Manufacturing
+3705,farming,Manufacturing
+3723,fmcg,Manufacturing
+3724,food processing,Manufacturing
+3734,furniture,Manufacturing
+3735,gadget,Manufacturing
+3757,groceries,Manufacturing
+3761,handmade,Manufacturing
+3762,hardware,Manufacturing
+3763,hardware + software,Manufacturing
+3803,industrial,Manufacturing
+3865,manufacturing,Manufacturing
+3894,mobile infrastructure,Manufacturing
+3899,mobile software tools,Manufacturing
+3918,new product development,Manufacturing
+3919,new technologies,Manufacturing
+3941,optical communications,Manufacturing
+4071,storage,Manufacturing
+4155,app discovery,"News, Search and Messaging"
+4156,app marketing,"News, Search and Messaging"
+4157,app stores,"News, Search and Messaging"
+4158,application performance monitoring,"News, Search and Messaging"
+4159,application platforms,"News, Search and Messaging"
+4160,apps,"News, Search and Messaging"
+4163,archiving,"News, Search and Messaging"
+4196,blogging platforms,"News, Search and Messaging"
+4202,broadcasting,"News, Search and Messaging"
+4203,brokers,"News, Search and Messaging"
+4204,browser extensions,"News, Search and Messaging"
+4205,building owners,"News, Search and Messaging"
+4214,cable,"News, Search and Messaging"
+4216,call center automation,"News, Search and Messaging"
+4224,certification test,"News, Search and Messaging"
+4228,chat,"News, Search and Messaging"
+4231,china internet,"News, Search and Messaging"
+4233,classifieds,"News, Search and Messaging"
+4238,cloud-based music,"News, Search and Messaging"
+4239,cloud computing,"News, Search and Messaging"
+4240,cloud data services,"News, Search and Messaging"
+4241,cloud infrastructure,"News, Search and Messaging"
+4242,cloud management,"News, Search and Messaging"
+4243,cloud security,"News, Search and Messaging"
+4252,commercial real estate,"News, Search and Messaging"
+4258,comparison shopping,"News, Search and Messaging"
+4296,curated web,"News, Search and Messaging"
+4313,delivery,"News, Search and Messaging"
+4314,demographies,"News, Search and Messaging"
+4329,direct marketing,"News, Search and Messaging"
+4330,direct sales,"News, Search and Messaging"
+4340,domains,"News, Search and Messaging"
+4358,email,"News, Search and Messaging"
+4375,enterprise search,"News, Search and Messaging"
+4413,forums,"News, Search and Messaging"
+4441,gps,"News, Search and Messaging"
+4442,graphics,"News, Search and Messaging"
+4447,group sms,"News, Search and Messaging"
+4506,internet,"News, Search and Messaging"
+4507,internet infrastructure,"News, Search and Messaging"
+4510,internet radio market,"News, Search and Messaging"
+4511,internet service providers,"News, Search and Messaging"
+4519,journalism,"News, Search and Messaging"
+4544,local search,"News, Search and Messaging"
+4554,maps,"News, Search and Messaging"
+4566,meeting software,"News, Search and Messaging"
+4568,messaging,"News, Search and Messaging"
+4571,microblogging,"News, Search and Messaging"
+4574,mobile,"News, Search and Messaging"
+4578,mobile devices,"News, Search and Messaging"
+4579,mobile enterprise,"News, Search and Messaging"
+4586,mobile social,"News, Search and Messaging"
+4602,navigation,"News, Search and Messaging"
+4608,news,"News, Search and Messaging"
+4617,online dating,"News, Search and Messaging"
+4621,online rental,"News, Search and Messaging"
+4622,online reservations,"News, Search and Messaging"
+4623,online scheduling,"News, Search and Messaging"
+4624,online shopping,"News, Search and Messaging"
+4625,online travel,"News, Search and Messaging"
+4640,peer-to-peer,"News, Search and Messaging"
+4668,private social networking,"News, Search and Messaging"
+4674,professional networking,"News, Search and Messaging"
+4682,publishing,"News, Search and Messaging"
+4683,q&a,"News, Search and Messaging"
+4689,recruiting,"News, Search and Messaging"
+4702,ride sharing,"News, Search and Messaging"
+4708,search,"News, Search and Messaging"
+4709,search marketing,"News, Search and Messaging"
+4716,seo,"News, Search and Messaging"
+4805,web browsers,"News, Search and Messaging"
+4806,web design,"News, Search and Messaging"
+4829,advice,Others
+4833,algorithms,Others
+4834,all markets,Others
+4835,all students,Others
+4837,alumni,Others
+4840,angels,Others
+4935,collectibles,Others
+4936,college campuses,Others
+5022,distribution,Others
+5023,distributors,Others
+5024,diy,Others
+5026,document management,Others
+5031,e-commerce,Others
+5032,e-commerce platforms,Others
+5035,eda tools,Others
+5036,ediscovery,Others
+5037,edtech,Others
+5038,education,Others
+5050,emerging markets,Others
+5052,employment,Others
+5058,engineering firms,Others
+5059,enterprise 2.na,Others
+5060,enterprise application,Others
+5062,enterprise resource planning,Others
+5064,enterprise security,Others
+5065,enterprise software,Others
+5066,enterprises,Others
+5069,entrepreneur,Others
+5078,families,Others
+5084,field support services,Others
+5085,file sharing,Others
+5095,flash sales,Others
+5096,flash storage,Others
+5097,fleet management,Others
+5098,flowers,Others
+5103,freelancers,Others
+5106,fruit,Others
+5118,gay & lesbian,Others
+5119,general public worldwide,Others
+5121,geospatial,Others
+5122,gift card,Others
+5123,gift exchange,Others
+5124,gift registries,Others
+5126,governance,Others
+5127,government innovation,Others
+5128,governments,Others
+5136,guides,Others
+5149,high school students,Others
+5150,high schools,Others
+5151,high tech,Others
+5155,home owners,Others
+5156,home renovation,Others
+5157,homeland security,Others
+5158,homeless shelter,Others
+5159,hospitality,Others
+5162,human computer interaction,Others
+5163,human resource automation,Others
+5164,human resources,Others
+5165,humanitarian,Others
+5166,iaas,Others
+5167,ict,Others
+5168,identity,Others
+5177,indians,Others
+5178,indoor positioning,Others
+5188,intellectual asset management,Others
+5189,intellectual property,Others
+5190,intelligent systems,Others
+5191,interest graph,Others
+5201,ios,Others
+5202,ipad,Others
+5203,iphone,Others
+5204,it and cybersecurity,Others
+5205,it management,Others
+5208,k-12 education,Others
+5209,kids,Others
+5210,knowledge management,Others
+5211,landscaping,Others
+5212,language learning,Others
+5214,law enforcement,Others
+5215,lead generation,Others
+5216,lead management,Others
+5217,legal,Others
+5219,licensing,Others
+5220,life sciences,Others
+5226,linux,Others
+5227,local,Others
+5229,local based services,Others
+5230,local businesses,Others
+5231,local commerce,Others
+5233,location based services,Others
+5234,logistics,Others
+5235,logistics company,Others
+5237,low bid auctions,Others
+5238,loyalty programs,Others
+5239,m2m,Others
+5245,marketplaces,Others
+5246,mass customization,Others
+5247,match-making,Others
+5258,micro-enterprises,Others
+5272,mobile security,Others
+5277,mobility,Others
+5291,network security,Others
+5292,networking,Others
+5297,non-tech,Others
+5298,non profit,Others
+5299,nonprofits,Others
+5301,office space,Others
+5302,oil,Others
+5303,oil & gas,Others
+5304,oil and gas,Others
+5306,online education,Others
+5308,online identity,Others
+5315,open source,Others
+5316,opinions,Others
+5318,optimization,Others
+5322,outsourcing,Others
+5325,parenting,Others
+5326,parking,Others
+5331,personal data,Others
+5334,personalization,Others
+5335,pervasive computing,Others
+5341,physical security,Others
+5343,plumbers,Others
+5344,point of sale,Others
+5345,politics,Others
+5346,polling,Others
+5347,portals,Others
+5348,postal and courier services,Others
+5351,presentations,Others
+5353,printing,Others
+5354,privacy,Others
+5355,private school,Others
+5357,procurement,Others
+5358,product design,Others
+5359,product development services,Others
+5360,productivity,Others
+5361,productivity software,Others
+5363,professional services,Others
+5364,project management,Others
+5372,qr codes,Others
+5373,real estate,Others
+5374,real time,Others
+5375,realtors,Others
+5376,recreation,Others
+5379,religion,Others
+5382,rental housing,Others
+5383,reputation,Others
+5389,rfid,Others
+5392,robotics,Others
+5393,saas,Others
+5395,sales automation,Others
+5398,security,Others
+5403,sensors,Others
+5405,service industries,Others
+5406,service providers,Others
+5407,services,Others
+5409,shared services,Others
+5410,shipping,Others
+5413,simulation,Others
+5414,skill assessment,Others
+5415,small and medium businesses,Others
+5416,smart grid,Others
+5417,sns,Others
+5436,software,Others
+5444,staffing firms,Others
+5445,startups,Others
+5448,subscription service,Others
+5449,supply chain management,Others
+5450,surveys,Others
+5451,synchronization,Others
+5452,systems,Others
+5453,task management,Others
+5454,taxis,Others
+5455,tea,Others
+5456,technology,Others
+5457,telecommunications,Others
+5459,textiles,Others
+5464,tracking,Others
+5465,trading,Others
+5466,training,Others
+5467,translation,Others
+5471,universities,Others
+5472,university students,Others
+5474,usability,Others
+5475,user experience design,Others
+5476,user interface,Others
+5477,utilities,Others
+5478,vending and concessions,Others
+5489,watch,Others
+5495,web development,Others
+5496,web hosting,Others
+5497,web tools,Others
+5499,wholesale,Others
+5502,women,Others
+5503,young adults,Others
+5508,accounting,"Social, Finance, Analytics, Advertising"
+5510,ad targeting,"Social, Finance, Analytics, Advertising"
+5513,advertising,"Social, Finance, Analytics, Advertising"
+5514,advertising exchanges,"Social, Finance, Analytics, Advertising"
+5515,advertising networks,"Social, Finance, Analytics, Advertising"
+5516,advertising platforms,"Social, Finance, Analytics, Advertising"
+5526,analytics,"Social, Finance, Analytics, Advertising"
+5527,android,"Social, Finance, Analytics, Advertising"
+5530,anything capital intensive,"Social, Finance, Analytics, Advertising"
+5541,artificial intelligence,"Social, Finance, Analytics, Advertising"
+5545,auctions,"Social, Finance, Analytics, Advertising"
+5548,augmented reality,"Social, Finance, Analytics, Advertising"
+5552,b2b,"Social, Finance, Analytics, Advertising"
+5553,b2b express delivery,"Social, Finance, Analytics, Advertising"
+5558,banking,"Social, Finance, Analytics, Advertising"
+5562,big data,"Social, Finance, Analytics, Advertising"
+5563,big data analytics,"Social, Finance, Analytics, Advertising"
+5564,billing,"Social, Finance, Analytics, Advertising"
+5574,bpo services,"Social, Finance, Analytics, Advertising"
+5575,brand marketing,"Social, Finance, Analytics, Advertising"
+5577,bridging online and offline,"Social, Finance, Analytics, Advertising"
+5583,business analytics,"Social, Finance, Analytics, Advertising"
+5584,business development,"Social, Finance, Analytics, Advertising"
+5585,business information systems,"Social, Finance, Analytics, Advertising"
+5586,business intelligence,"Social, Finance, Analytics, Advertising"
+5587,business productivity,"Social, Finance, Analytics, Advertising"
+5588,business services,"Social, Finance, Analytics, Advertising"
+5595,career management,"Social, Finance, Analytics, Advertising"
+5596,career planning,"Social, Finance, Analytics, Advertising"
+5601,charities,"Social, Finance, Analytics, Advertising"
+5602,charity,"Social, Finance, Analytics, Advertising"
+5603,charter schools,"Social, Finance, Analytics, Advertising"
+5621,collaboration,"Social, Finance, Analytics, Advertising"
+5622,collaborative consumption,"Social, Finance, Analytics, Advertising"
+5625,college recruiting,"Social, Finance, Analytics, Advertising"
+5626,colleges,"Social, Finance, Analytics, Advertising"
+5633,communities,"Social, Finance, Analytics, Advertising"
+5641,consulting,"Social, Finance, Analytics, Advertising"
+5642,consumer behavior,"Social, Finance, Analytics, Advertising"
+5645,consumer internet,"Social, Finance, Analytics, Advertising"
+5646,consumer lending,"Social, Finance, Analytics, Advertising"
+5647,consumers,"Social, Finance, Analytics, Advertising"
+5648,contact centers,"Social, Finance, Analytics, Advertising"
+5649,contact management,"Social, Finance, Analytics, Advertising"
+5657,corporate it,"Social, Finance, Analytics, Advertising"
+5658,corporate training,"Social, Finance, Analytics, Advertising"
+5662,coupons,"Social, Finance, Analytics, Advertising"
+5663,coworking,"Social, Finance, Analytics, Advertising"
+5667,credit,"Social, Finance, Analytics, Advertising"
+5668,credit cards,"Social, Finance, Analytics, Advertising"
+5669,crm,"Social, Finance, Analytics, Advertising"
+5670,crowdfunding,"Social, Finance, Analytics, Advertising"
+5671,crowdsourcing,"Social, Finance, Analytics, Advertising"
+5673,custom retail,"Social, Finance, Analytics, Advertising"
+5674,customer service,"Social, Finance, Analytics, Advertising"
+5675,customer support tools,"Social, Finance, Analytics, Advertising"
+5676,cyber,"Social, Finance, Analytics, Advertising"
+5677,cyber security,"Social, Finance, Analytics, Advertising"
+5678,data center automation,"Social, Finance, Analytics, Advertising"
+5679,data center infrastructure,"Social, Finance, Analytics, Advertising"
+5680,data centers,"Social, Finance, Analytics, Advertising"
+5681,data integration,"Social, Finance, Analytics, Advertising"
+5682,data mining,"Social, Finance, Analytics, Advertising"
+5683,data privacy,"Social, Finance, Analytics, Advertising"
+5684,data security,"Social, Finance, Analytics, Advertising"
+5685,data visualization,"Social, Finance, Analytics, Advertising"
+5686,databases,"Social, Finance, Analytics, Advertising"
+5687,debt collecting,"Social, Finance, Analytics, Advertising"
+5694,developer apis,"Social, Finance, Analytics, Advertising"
+5695,developer tools,"Social, Finance, Analytics, Advertising"
+5696,development platforms,"Social, Finance, Analytics, Advertising"
+5704,direct advertising,"Social, Finance, Analytics, Advertising"
+5707,discounts,"Social, Finance, Analytics, Advertising"
+5735,email marketing,"Social, Finance, Analytics, Advertising"
+5736,email newsletters,"Social, Finance, Analytics, Advertising"
+5739,employer benefits programs,"Social, Finance, Analytics, Advertising"
+5749,enterprise purchasing,"Social, Finance, Analytics, Advertising"
+5759,estimation and quoting,"Social, Finance, Analytics, Advertising"
+5764,face recognition,"Social, Finance, Analytics, Advertising"
+5765,facebook applications,"Social, Finance, Analytics, Advertising"
+5777,finance,"Social, Finance, Analytics, Advertising"
+5778,finance technology,"Social, Finance, Analytics, Advertising"
+5779,financial exchanges,"Social, Finance, Analytics, Advertising"
+5780,financial services,"Social, Finance, Analytics, Advertising"
+5781,fintech,"Social, Finance, Analytics, Advertising"
+5790,fraud detection,"Social, Finance, Analytics, Advertising"
+5792,freemium,"Social, Finance, Analytics, Advertising"
+5813,gold,"Social, Finance, Analytics, Advertising"
+5822,group buying,"Social, Finance, Analytics, Advertising"
+5836,hedge funds,"Social, Finance, Analytics, Advertising"
+5857,identity management,"Social, Finance, Analytics, Advertising"
+5858,image recognition,"Social, Finance, Analytics, Advertising"
+5859,impact investing,"Social, Finance, Analytics, Advertising"
+5861,incentives,"Social, Finance, Analytics, Advertising"
+5862,incubators,"Social, Finance, Analytics, Advertising"
+5869,information security,"Social, Finance, Analytics, Advertising"
+5870,information services,"Social, Finance, Analytics, Advertising"
+5871,information technology,"Social, Finance, Analytics, Advertising"
+5872,infrastructure,"Social, Finance, Analytics, Advertising"
+5873,innovation engineering,"Social, Finance, Analytics, Advertising"
+5874,innovation management,"Social, Finance, Analytics, Advertising"
+5875,insurance,"Social, Finance, Analytics, Advertising"
+5884,internet marketing,"Social, Finance, Analytics, Advertising"
+5885,internet of things,"Social, Finance, Analytics, Advertising"
+5888,investment management,"Social, Finance, Analytics, Advertising"
+5916,local advertising,"Social, Finance, Analytics, Advertising"
+5924,lotteries,"Social, Finance, Analytics, Advertising"
+5928,machine learning,"Social, Finance, Analytics, Advertising"
+5931,market research,"Social, Finance, Analytics, Advertising"
+5932,marketing automation,"Social, Finance, Analytics, Advertising"
+5951,mobile advertising,"Social, Finance, Analytics, Advertising"
+5952,mobile analytics,"Social, Finance, Analytics, Advertising"
+5953,mobile commerce,"Social, Finance, Analytics, Advertising"
+5959,mobile payments,"Social, Finance, Analytics, Advertising"
+5961,mobile shopping,"Social, Finance, Analytics, Advertising"
+5966,monetization,"Social, Finance, Analytics, Advertising"
+5967,moneymaking,"Social, Finance, Analytics, Advertising"
+5968,multi-level marketing,"Social, Finance, Analytics, Advertising"
+6011,p2p money transfer,"Social, Finance, Analytics, Advertising"
+6012,paas,"Social, Finance, Analytics, Advertising"
+6015,payments,"Social, Finance, Analytics, Advertising"
+6017,performance marketing,"Social, Finance, Analytics, Advertising"
+6018,personal branding,"Social, Finance, Analytics, Advertising"
+6020,personal finance,"Social, Finance, Analytics, Advertising"
+6037,pre seed,"Social, Finance, Analytics, Advertising"
+6038,predictive analytics,"Social, Finance, Analytics, Advertising"
+6040,price comparison,"Social, Finance, Analytics, Advertising"
+6053,promotional,"Social, Finance, Analytics, Advertising"
+6054,property management,"Social, Finance, Analytics, Advertising"
+6055,public relations,"Social, Finance, Analytics, Advertising"
+6074,retail,"Social, Finance, Analytics, Advertising"
+6075,retail technology,"Social, Finance, Analytics, Advertising"
+6079,risk management,"Social, Finance, Analytics, Advertising"
+6082,sales and marketing,"Social, Finance, Analytics, Advertising"
+6107,social + mobile + local,"Social, Finance, Analytics, Advertising"
+6108,social bookmarking,"Social, Finance, Analytics, Advertising"
+6109,social business,"Social, Finance, Analytics, Advertising"
+6110,social buying,"Social, Finance, Analytics, Advertising"
+6111,social commerce,"Social, Finance, Analytics, Advertising"
+6112,social crm,"Social, Finance, Analytics, Advertising"
+6113,social fundraising,"Social, Finance, Analytics, Advertising"
+6114,social games,"Social, Finance, Analytics, Advertising"
+6115,social media,"Social, Finance, Analytics, Advertising"
+6116,social media management,"Social, Finance, Analytics, Advertising"
+6117,social media marketing,"Social, Finance, Analytics, Advertising"
+6118,social media platforms,"Social, Finance, Analytics, Advertising"
+6119,social network media,"Social, Finance, Analytics, Advertising"
+6120,social news,"Social, Finance, Analytics, Advertising"
+6121,social recruiting,"Social, Finance, Analytics, Advertising"
+6122,social television,"Social, Finance, Analytics, Advertising"
+6123,social travel,"Social, Finance, Analytics, Advertising"
+6134,stock exchanges,"Social, Finance, Analytics, Advertising"
+6167,venture capital,"Social, Finance, Analytics, Advertising"
