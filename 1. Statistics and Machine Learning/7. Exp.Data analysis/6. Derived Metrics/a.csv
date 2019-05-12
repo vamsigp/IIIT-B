@@ -1,0 +1,278 @@
+Country,year,century
+Afghanistan,2009,1.0
+Afghanistan,2010,4.0
+Australia,1975,1.0
+Australia,1977,1.0
+Australia,1980,2.0
+Australia,1981,2.0
+Australia,1982,1.0
+Australia,1983,2.0
+Australia,1984,1.0
+Australia,1985,4.0
+Australia,1986,3.0
+Australia,1987,5.0
+Australia,1988,2.0
+Australia,1989,2.0
+Australia,1990,4.0
+Australia,1991,3.0
+Australia,1992,2.0
+Australia,1993,2.0
+Australia,1994,3.0
+Australia,1996,8.0
+Australia,1997,5.0
+Australia,1998,8.0
+Australia,1999,6.0
+Australia,2000,7.0
+Australia,2001,8.0
+Australia,2002,8.0
+Australia,2003,10.0
+Australia,2004,5.0
+Australia,2005,8.0
+Australia,2006,8.0
+Australia,2007,15.0
+Australia,2008,3.0
+Australia,2009,11.0
+Australia,2010,4.0
+Australia,2011,6.0
+Bangladesh,1999,1.0
+Bangladesh,2005,1.0
+Bangladesh,2006,4.0
+Bangladesh,2007,2.0
+Bangladesh,2008,4.0
+Bangladesh,2009,4.0
+Bangladesh,2010,4.0
+Bangladesh,2011,1.0
+Bermuda,2006,1.0
+Bermuda,2009,1.0
+Canada,2003,1.0
+Canada,2007,2.0
+Canada,2008,1.0
+Canada,2009,1.0
+England,1972,1.0
+England,1973,1.0
+England,1974,1.0
+England,1975,2.0
+England,1977,1.0
+England,1978,2.0
+England,1979,2.0
+England,1980,1.0
+England,1982,1.0
+England,1983,6.0
+England,1984,1.0
+England,1985,3.0
+England,1986,2.0
+England,1987,3.0
+England,1988,1.0
+England,1989,3.0
+England,1990,3.0
+England,1991,1.0
+England,1992,1.0
+England,1993,3.0
+England,1995,1.0
+England,1996,4.0
+England,1997,2.0
+England,1998,1.0
+England,1999,3.0
+England,2000,2.0
+England,2001,1.0
+England,2002,7.0
+England,2003,3.0
+England,2004,7.0
+England,2005,7.0
+England,2006,2.0
+England,2007,8.0
+England,2008,3.0
+England,2009,3.0
+England,2010,7.0
+England,2011,4.0
+India,1983,1.0
+India,1984,3.0
+India,1986,2.0
+India,1987,4.0
+India,1988,5.0
+India,1989,2.0
+India,1990,3.0
+India,1991,2.0
+India,1992,1.0
+India,1993,2.0
+India,1994,7.0
+India,1995,1.0
+India,1996,8.0
+India,1997,7.0
+India,1998,18.0
+India,1999,15.0
+India,2000,10.0
+India,2001,9.0
+India,2002,9.0
+India,2003,10.0
+India,2004,7.0
+India,2005,11.0
+India,2006,5.0
+India,2007,5.0
+India,2008,10.0
+India,2009,13.0
+India,2010,12.0
+India,2011,8.0
+Ireland,2007,6.0
+Ireland,2009,2.0
+Ireland,2010,3.0
+Ireland,2011,4.0
+Kenya,1997,2.0
+Kenya,1999,2.0
+Kenya,2006,1.0
+Kenya,2007,2.0
+Kenya,2008,1.0
+Netherlands,2003,2.0
+Netherlands,2007,2.0
+Netherlands,2009,1.0
+Netherlands,2010,2.0
+Netherlands,2011,2.0
+New Zealand,1974,1.0
+New Zealand,1975,3.0
+New Zealand,1981,1.0
+New Zealand,1983,1.0
+New Zealand,1984,1.0
+New Zealand,1988,1.0
+New Zealand,1990,3.0
+New Zealand,1992,1.0
+New Zealand,1994,3.0
+New Zealand,1995,3.0
+New Zealand,1996,4.0
+New Zealand,1997,1.0
+New Zealand,1998,3.0
+New Zealand,1999,3.0
+New Zealand,2000,3.0
+New Zealand,2001,6.0
+New Zealand,2002,3.0
+New Zealand,2003,4.0
+New Zealand,2004,4.0
+New Zealand,2005,3.0
+New Zealand,2006,4.0
+New Zealand,2007,7.0
+New Zealand,2008,4.0
+New Zealand,2009,4.0
+New Zealand,2010,1.0
+New Zealand,2011,7.0
+Pakistan,1974,1.0
+Pakistan,1981,1.0
+Pakistan,1982,8.0
+Pakistan,1983,3.0
+Pakistan,1986,1.0
+Pakistan,1987,4.0
+Pakistan,1988,4.0
+Pakistan,1989,4.0
+Pakistan,1990,6.0
+Pakistan,1992,7.0
+Pakistan,1993,8.0
+Pakistan,1994,6.0
+Pakistan,1995,4.0
+Pakistan,1996,7.0
+Pakistan,1997,4.0
+Pakistan,1998,7.0
+Pakistan,1999,5.0
+Pakistan,2000,5.0
+Pakistan,2001,2.0
+Pakistan,2002,13.0
+Pakistan,2003,5.0
+Pakistan,2004,9.0
+Pakistan,2005,6.0
+Pakistan,2006,3.0
+Pakistan,2007,5.0
+Pakistan,2008,10.0
+Pakistan,2009,4.0
+Pakistan,2010,3.0
+Pakistan,2011,5.0
+Scotland,2007,2.0
+Scotland,2009,2.0
+South Africa,1984,1.0
+South Africa,1992,1.0
+South Africa,1994,4.0
+South Africa,1995,2.0
+South Africa,1996,11.0
+South Africa,1998,4.0
+South Africa,1999,6.0
+South Africa,2000,6.0
+South Africa,2001,8.0
+South Africa,2002,8.0
+South Africa,2003,4.0
+South Africa,2004,4.0
+South Africa,2005,8.0
+South Africa,2006,7.0
+South Africa,2007,8.0
+South Africa,2008,4.0
+South Africa,2009,4.0
+South Africa,2010,14.0
+South Africa,2011,4.0
+Sri Lanka,1982,2.0
+Sri Lanka,1990,1.0
+Sri Lanka,1992,2.0
+Sri Lanka,1993,1.0
+Sri Lanka,1994,6.0
+Sri Lanka,1995,4.0
+Sri Lanka,1996,7.0
+Sri Lanka,1997,8.0
+Sri Lanka,1998,4.0
+Sri Lanka,1999,3.0
+Sri Lanka,2000,7.0
+Sri Lanka,2001,6.0
+Sri Lanka,2002,4.0
+Sri Lanka,2003,8.0
+Sri Lanka,2004,4.0
+Sri Lanka,2005,2.0
+Sri Lanka,2006,14.0
+Sri Lanka,2007,6.0
+Sri Lanka,2008,6.0
+Sri Lanka,2009,8.0
+Sri Lanka,2010,7.0
+Sri Lanka,2011,11.0
+West Indies,1973,1.0
+West Indies,1975,1.0
+West Indies,1976,1.0
+West Indies,1978,1.0
+West Indies,1979,3.0
+West Indies,1980,1.0
+West Indies,1981,1.0
+West Indies,1983,4.0
+West Indies,1984,6.0
+West Indies,1985,6.0
+West Indies,1986,1.0
+West Indies,1987,7.0
+West Indies,1988,8.0
+West Indies,1989,5.0
+West Indies,1990,2.0
+West Indies,1991,2.0
+West Indies,1992,3.0
+West Indies,1993,4.0
+West Indies,1994,2.0
+West Indies,1995,2.0
+West Indies,1996,4.0
+West Indies,1997,7.0
+West Indies,1998,3.0
+West Indies,1999,4.0
+West Indies,2000,3.0
+West Indies,2001,2.0
+West Indies,2002,8.0
+West Indies,2003,9.0
+West Indies,2004,3.0
+West Indies,2005,4.0
+West Indies,2006,10.0
+West Indies,2007,4.0
+West Indies,2008,5.0
+West Indies,2009,3.0
+West Indies,2010,2.0
+West Indies,2011,3.0
+Zimbabwe,1987,1.0
+Zimbabwe,1992,1.0
+Zimbabwe,1994,1.0
+Zimbabwe,1998,7.0
+Zimbabwe,1999,5.0
+Zimbabwe,2000,3.0
+Zimbabwe,2001,8.0
+Zimbabwe,2002,2.0
+Zimbabwe,2003,2.0
+Zimbabwe,2004,2.0
+Zimbabwe,2006,1.0
+Zimbabwe,2007,1.0
+Zimbabwe,2009,6.0
+Zimbabwe,2010,2.0
+Zimbabwe,2011,3.0
