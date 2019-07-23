@@ -1,0 +1,7 @@
+NN assignment
+
+from the input data - 
+	training - training_data
+	testing - validation_data
+	reporting - test_data
+	
